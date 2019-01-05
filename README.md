@@ -1,11 +1,11 @@
 
 An implementation of an Encoder:
 
-To have a better idea about this code is to be run, you can follow the instructions below:
+To have a better idea about the project, you can follow the instructions below:
 
 • Go through the tutorial “Classifying Names with a Character-Level RNN”
 http://pytorch.org/tutorials/intermediate/char rnn classification tutorial.html
-• Download the data associated with the tutorial. In your Python notebook within Google Colab, use the following
+• Download the data associated with the tutorial. In a Python notebook within Google Colab(if you are using one), use the following
 instructions to download the data into the working directory of the virtual machine:
 !wget https://download.pytorch.org/tutorial/data.zip
 !unzip data.zip
